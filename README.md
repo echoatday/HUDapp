@@ -1,5 +1,4 @@
-# HUDrandomizer
-
+# HUDapp
 This currently only displays the dark souls HUD as a test.
 
 ### Complete:
